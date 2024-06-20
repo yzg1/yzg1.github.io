@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "枫.png"
+  avatar           : "maple.png"
   name             : "Zhengou"
   pronouns         : # example: "she/her"  
   bio              : "寂寞的人总是习惯寂寞的安稳"
   location         : "Jiangxi,China"
-  employer         : "Nanjing University of Science and Technology"
+  employer         : "NJUST"
   uri              : # URL
   email            : "youzhenguo65@gmail.com" 
 
