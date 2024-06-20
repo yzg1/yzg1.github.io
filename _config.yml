@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "枫.png"
   name             : "Zhengou"
   pronouns         : # example: "she/her"  
   bio              : "寂寞的人总是习惯寂寞的安稳"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Jiangxi,China"
+  employer         : "Nanjing University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "youzhenguo65@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
